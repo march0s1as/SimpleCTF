@@ -1,3 +1,5 @@
+#!/bin/bash
+
 fVermelho='\033[0;31m'
 NC='\033[0m'
 openvpn='/home/march0s1as/Downloads/belph3g0r.ovpn' # digite o PATH da sua OpenVPN aqui, pelo amor de deus.
